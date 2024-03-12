@@ -1,11 +1,11 @@
 # Stochastic Data
 
 ## Introduction
-In this project we go through generating synthetic time series data based on real data. We work through selecting which time series to use, preparing it for information extraction and the generation process of synthetic data.
+In this project we go through generating synthetic time series data based on real data. We work through selecting which time series to use as foundation, preparing it for decomposition and the generation process of our synthetic data.
 
 ## Features
 - `datageneration.ipynb`: Generates synthetic data from a chosen time series dataset.
- - `preprocessing.ipynb`: Shows the process behind preprocessing data and selecting a time series dataset as baseline for synthetic data.
+ - `preprocessing.ipynb`: Shows the process behind preprocessing data and selecting a time series as baseline for synthetic data.
 
 ## Installation
 Instructions on how to install and set up the project.
@@ -40,3 +40,6 @@ If you're interested in contributing to this project, here's how you can do it:
 3. Commit your changes (`git commit -m 'Add some YourFeature'`).
 4. Push to the branch (`git push origin feature/YourFeature`).
 5. Open a Pull Request.
+
+## License
+This project is licensed under the MIT License - see the LICENSE.md file for details.
